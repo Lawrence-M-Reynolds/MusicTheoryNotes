@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "573e92d68bd7979d",
+            "id": "1a0c8c963feea840",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ]
@@ -187,7 +191,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8ec37e8a0f83b32a",
+  "active": "1a0c8c963feea840",
   "lastOpenFiles": [
     "Untitled.canvas",
     "Harmony.md",
