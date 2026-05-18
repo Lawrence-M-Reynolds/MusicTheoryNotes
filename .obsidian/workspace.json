@@ -58,9 +58,49 @@
               "icon": "lucide-file",
               "title": "Tritone"
             }
+          },
+          {
+            "id": "963e05b5600b2bf4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "fa8075cac0328e5b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "4a04e27aa83b360b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "3e1caab6a5ffc217",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -230,16 +270,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "757db744eb133ffd",
+  "active": "3e1caab6a5ffc217",
   "lastOpenFiles": [
+    "README.md",
+    "_Compiled_Music_Theory_Notes.md",
     "Intervals/Intervals.md",
+    "Chords/7th and 9th chords.md",
     "Intervals/Tritone.md",
+    "Chords/Dominant 7th Chord.md",
     "Harmony.md",
     "Chords/Augmented 6th Chord.md",
     "Modulation/Modulations.md",
     "Chords/Functions.md",
     "Chords/Diminished 7th Chord.md",
-    "Chords/Dominant 7th Chord.md",
     "Modulation",
     "Chords/Major 7th Chord.md",
     "Chords/Neapolitan 6th Chord.md",
