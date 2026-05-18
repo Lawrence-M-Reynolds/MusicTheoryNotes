@@ -1,1 +1,12 @@
 _Compiled_Music_Theory_Notes.md
+
+# Ignore UI state (window sizes, open tabs, graph node positions)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Ignore temporary sync or cache files
+.obsidian/graph.json
+.obsidian/plugins/obsidian-excalidraw/cache.json
+
+# System junk
+.DS_Store
