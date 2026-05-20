@@ -8,105 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "085a1291692603b1",
+            "id": "57fd81fb2a8a4e7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chords/Augmented triad.md",
+                "file": "ResearchThreads/Discussion_tendency tones.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Augmented triad"
+              "title": "Discussion_tendency tones"
             }
           },
           {
-            "id": "ef906b977b0004ce",
+            "id": "2489867f2f000c49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ResearchThreads/Resolution of diminished 7th.md",
+                "file": "Voice-Leading/Introducing 7th,9th.. tones.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resolution of diminished 7th"
+              "title": "Introducing 7th,9th.. tones"
             }
           },
           {
-            "id": "8b5598335c9cd0d6",
+            "id": "7a1fee087562d814",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ResearchThreads/Diatonic vs Chromatic.md",
+                "file": "Voice-Leading/Tendency Tones.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diatonic vs Chromatic"
-            }
-          },
-          {
-            "id": "01653fb621da1d29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intervals/Intervals.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Intervals"
-            }
-          },
-          {
-            "id": "17dce95a77ca6da0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chords/Dominant 7th Chord.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dominant 7th Chord"
-            }
-          },
-          {
-            "id": "f9701df1b9fb8469",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ResearchThreads/Symmetric chords.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Symmetric chords"
-            }
-          },
-          {
-            "id": "3e1caab6a5ffc217",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chords/7th and 9th chords.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7th and 9th chords"
+              "title": "Tendency Tones"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -276,21 +220,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8b5598335c9cd0d6",
+  "active": "2489867f2f000c49",
   "lastOpenFiles": [
-    "ResearchThreads/Resolution of diminished 7th.md",
-    "ResearchThreads/Diatonic vs Chromatic.md",
-    "Chords/Dominant 7th Chord.md",
+    "ResearchThreads/Discussion_7th_9th chords.md",
+    "Voice-Leading/Introducing 7th,9th.. tones.md",
+    "Voice-Leading/Tendency Tones.md",
+    "ResearchThreads/Discussion_tendency tones.md",
+    "ResearchThreads/Discussion_unsorted.md",
+    "ResearchThreads/Discussion_Counterpoint.md",
+    "ResearchThreads/Symmetric chords.md",
     "Intervals/Intervals.md",
+    "ResearchThreads/Diatonic vs Chromatic.md",
+    "_Compiled_Music_Theory_Notes.md",
+    "Voice-Leading",
+    "ResearchThreads/Resolution of diminished 7th.md",
+    "Chords/Dominant 7th Chord.md",
     "Chords/Augmented triad.md",
     "Chords/Functions.md",
-    "ResearchThreads/Symmetric chords.md",
     "ResearchThreads",
     "Chords/Augmented 6th Chord.md",
     "Chords/7th and 9th chords.md",
     "Modulation/Modulations.md",
     "Modulation/Neutralisation.md",
-    "_Compiled_Music_Theory_Notes.md",
     "README.md",
     "Intervals/Tritone.md",
     "Harmony.md",
